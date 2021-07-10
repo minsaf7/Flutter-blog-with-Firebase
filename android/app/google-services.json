@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190883540576",
+    "project_id": "travel-blog-flutter",
+    "storage_bucket": "travel-blog-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190883540576:android:878743038e6054891f5d05",
+        "android_client_info": {
+          "package_name": "com.example.memoir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190883540576-lsk3kpuutieaoq3n5971f47bt84d410d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3QNQzhXqUlozuimmyl0L5j_NvwMVAd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190883540576-lsk3kpuutieaoq3n5971f47bt84d410d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
